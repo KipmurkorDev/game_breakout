@@ -1,3 +1,0 @@
-- [] Understand how Canvas works
-- [] Object Motion on Canvas
-- [] Canvas + ReactJS

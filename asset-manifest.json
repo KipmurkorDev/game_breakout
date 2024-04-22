@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game_breakout/static/css/main.8ca794a4.css",
+    "main.js": "/game_breakout/static/js/main.2c08f12f.js",
+    "index.html": "/game_breakout/index.html",
+    "main.8ca794a4.css.map": "/game_breakout/static/css/main.8ca794a4.css.map",
+    "main.2c08f12f.js.map": "/game_breakout/static/js/main.2c08f12f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ca794a4.css",
+    "static/js/main.2c08f12f.js"
+  ]
+}
